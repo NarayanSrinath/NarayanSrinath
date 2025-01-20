@@ -14,7 +14,9 @@ Hi there! 👋 I'm a passionate and detail-oriented **Web and Mobile App Develop
 - Developed the *KuttiNSons* website, hosted and deployed using Firebase and GitHub Pages.
 **Skills:**  
 Flutter | React Native | React | Dart | Firebase | REST APIs | MongoDB | GitHub | Agile Development  
-I am constantly learning and evolving my skills to tackle new challenges and deliver innovative solutions. Check out my repositories to explore my work!  Let’s connect and collaborate! 😊  --- 
+I am constantly learning and evolving my skills to tackle new challenges and deliver innovative solutions. Check out my repositories to explore my work!
+
+--- Let’s connect and collaborate! 😊  --- 
 
 
 ## 🌐 Socials:
