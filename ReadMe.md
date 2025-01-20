@@ -7,7 +7,7 @@ Hi there! 👋 I'm a passionate and detail-oriented **Web and Mobile App Develop
 - 🛠️ Build dynamic, user-centric web and mobile applications.
 - 🚀 Develop and deploy scalable solutions, from concept to production.  
 - 🔧 Integrate backend APIs, implement modern design principles, and ensure high performance.  
-- 
+  
 **Recent Highlights:**  
 - Published multiple apps live on the App Store and Play Store.  
 - Designed and launched a fully-functional website using Flutter Web, streamlining the student admission process. 
