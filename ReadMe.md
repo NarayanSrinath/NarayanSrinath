@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>---<br><br>### About Me  <br>Hi there! 👋 I'm a passionate and detail-oriented **Web and Mobile App Developer** with expertise in **Flutter**, **React Native**, and **React**. Over the years, I've successfully delivered several live projects, including mobile apps and web platforms, that are actively in use.  <br><br>**What I Do:**  <br>- 🛠️ Build dynamic, user-centric web and mobile applications.  <br>- 🚀 Develop and deploy scalable solutions, from concept to production.  <br>- 🔧 Integrate backend APIs, implement modern design principles, and ensure high performance.  <br><br>**Recent Highlights:**  <br>- Published multiple apps live on the App Store and Play Store.  <br>- Designed and launched a fully-functional website using Flutter Web, streamlining the student admission process.  <br>- Developed the *KuttiNSons* website, hosted and deployed using Firebase and GitHub Pages.  <br><br>**Skills:**  <br>Flutter | React Native | React | Dart | Firebase | REST APIs | MongoDB | GitHub | Agile Development  <br><br>I am constantly learning and evolving my skills to tackle new challenges and deliver innovative solutions. Check out my repositories to explore my work!  <br><br>Let’s connect and collaborate! 😊  <br><br>--- <br><br>
+<br>---<br>### About Me  <br>Hi there! 👋 I'm a passionate and detail-oriented **Web and Mobile App Developer** with expertise in **Flutter**, **React Native**, and **React**. Over the years, I've successfully delivered several live projects, including mobile apps and web platforms, that are actively in use.  <br><br>**What I Do:**  <br>- 🛠️ Build dynamic, user-centric web and mobile applications.  <br>- 🚀 Develop and deploy scalable solutions, from concept to production.  <br>- 🔧 Integrate backend APIs, implement modern design principles, and ensure high performance.  <br><br>**Recent Highlights:**  <br>- Published multiple apps live on the App Store and Play Store.  <br>- Designed and launched a fully-functional website using Flutter Web, streamlining the student admission process.  <br>- Developed the *KuttiNSons* website, hosted and deployed using Firebase and GitHub Pages.  <br><br>**Skills:**  <br>Flutter | React Native | React | Dart | Firebase | REST APIs | MongoDB | GitHub | Agile Development  <br><br>I am constantly learning and evolving my skills to tackle new challenges and deliver innovative solutions. Check out my repositories to explore my work!  <br><br>Let’s connect and collaborate! 😊  <br><br>--- <br><br>
 
 
 ## 🌐 Socials:
@@ -13,15 +13,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NarayanSrinath&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NarayanSrinath&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NarayanSrinath&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NarayanSrinath&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NarayanSrinath&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NarayanSrinath&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NarayanSrinath&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
