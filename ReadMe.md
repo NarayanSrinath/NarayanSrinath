@@ -32,3 +32,4 @@ I am constantly learning and evolving my skills to tackle new challenges and del
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NarayanSrinath&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
